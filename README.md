@@ -148,6 +148,4 @@ Known Good Machines
 These machines have been tested:
 
  zedboard-zynq7
- ettus-e1xx (need to use kernel+modules from official image)
- imx6sabre-lite
 
