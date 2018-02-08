@@ -42,7 +42,7 @@ Getting Started
 
     Tell Repo where to find the manifest
 
-        $ repo init -u git://github.com/balister/oe-gnuradio-manifest.git -b jethro
+        $ repo init -u git://github.com/ShubhamKoyande/oe-gnuradio-manifest.git -b jethro
 
     A successful initialization will end with a message stating that Repo is
     initialized in your working directory. Your client directory should now
@@ -135,7 +135,7 @@ repositories and branches or pull in additional meta-layers.
 
 Clone this repository (or fork it on github):
 
-    $ git clone git://github.com/balister/oe-gnuradio-manifest.git
+    $ git clone git://github.com/ShubhamKoyande/oe-gnuradio-manifest.git
 
 Make your changes (and contribute them back if they are generally useful :) ),
 and then re-initialize your repo client
@@ -150,6 +150,4 @@ These machines have been tested:
  zedboard-zynq7
  ettus-e1xx (need to use kernel+modules from official image)
  imx6sabre-lite
-
-Please send success stories to philip@balister.org.
 
