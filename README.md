@@ -88,7 +88,7 @@ Getting Started
 
     Run:
 
-        $ export MACHINE="zedboard-zynq7" (only if MACHINE is not already set)
+        $ export MACHINE="zc706-zynq7" (only if MACHINE is not already set)
         $ bitbake -c populate_sdk gnuradio-dev-image
 
     When this completes the sdk is in ./tmp-eglibc/deploy/sdk/ as an .sh file
