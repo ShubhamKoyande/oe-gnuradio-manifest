@@ -72,7 +72,7 @@ Getting Started
     do an awful lot of compilation so make sure you have plenty of space (25GB
     minimum). Go drink some beer.
 
-        $ export MACHINE="zedboard-zynq7" (default is ettus-e300)
+        $ export MACHINE="zc706-zynq7" (default is ettus-e300)
         $ bitbake gnuradio-dev-image
 
     If everything goes well, you should have a compressed root filesystem
